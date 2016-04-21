@@ -1,0 +1,56 @@
+/*CSS for index.html, */
+
+/*regular tagging*/
+
+h1{
+    height: 1em;
+    display: flex;
+    align-content: center;
+    justify-content: center; 
+}
+
+/*classes*/
+
+.article{
+    
+}
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    color: white;
+}
+
+.Header{
+    
+}
+
+.Header2{
+    
+}
+
+.me{
+    
+}
+
+.taskbar{
+    background-color: black;
+}
+
+.taskbar li a:link{
+    color: white;
+    text-decoration: none;
+    border-bottom: solid 1px white;
+}
+
+.taskbar li a:visited{
+    background-color: black;
+}
+
+.taskbar li{
+    list-style-type: none;
+}
+
+
